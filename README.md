@@ -102,6 +102,6 @@ The script will produce a DataFrame like this:
 ## ✅ Next Steps
 - Save the DataFrame to CSV/Excel:
 ```python
-df.to_csv("us_companies.csv", index=False)
+df.to_csv("Companies.csv", index=False)
 ```
 - Perform further analysis (sorting, filtering, visualization).
